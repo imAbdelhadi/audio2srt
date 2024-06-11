@@ -23,7 +23,7 @@ pip install requests tqdm
 ## Setup
 
 1. Save your OpenAI API key in the script by replacing `'YOUR_API_KEY'` with your actual API key.
-2. Ensure you have a folder containing your audio files. The default folder name is `audio_files`, but you can change this in the script if needed.
+2. Ensure you have a folder containing your audio files. create a folder called `audio_files`, but you can change this in the script if needed.
 3. Ensure the output folder (`srt_files`) exists or will be created by the script.
 
 ## Usage
