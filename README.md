@@ -1,4 +1,4 @@
-# Audio to SRT Transcription Script using OpenAI Whisper
+# Audio to SRT Transcription (subtitle) Script using OpenAI Whisper
 
 This script transcribes audio files in a specified folder to SRT (subtitle) format using the OpenAI Whisper API. The script processes multiple audio files and saves the transcriptions in a specified output folder.
 
